@@ -9,7 +9,25 @@ body{
     top:-60px;
     left:320px;
 }
-
+.pic2{
+    position:absolute;
+    top:20px;
+    left:380px;
+}
+.pic3{
+    position:absolute;
+    top:20px;
+    left:430px;
+}
+.signup {
+    width:300px;
+    position:absolute;
+    top:320px;
+    left:40px;
+}
+.error {
+    color:red;
+}
 .learn, .sign{
     color:black;
     text-decoration: none;
